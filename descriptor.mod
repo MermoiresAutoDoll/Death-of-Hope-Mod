@@ -1,8 +1,7 @@
-version="Alpha"
-picture="DoH Main Icon.png"
+version="1"
 tags={
 	"Alternative History"
 }
 name="The Cold War: Death of Hope"
-supported_version="1.10.1"
-remote_file_id="2277777993"
+supported_version="1.10.*"
+picture="DoH Main Icon.png"
